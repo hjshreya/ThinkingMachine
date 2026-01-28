@@ -1,13 +1,13 @@
 {
-  "name": "socratic-thinking-tool-gemini",
+  "name": "socratic-thinking-tool",
   "version": "1.0.0",
-  "description": "A Socratic AI tool powered by Google Gemini",
+  "description": "A Socratic AI tool",
   "main": "index.js",
   "scripts": {
     "dev": "vercel dev",
     "build": "echo 'No build step needed'"
   },
-  "keywords": ["socratic", "thinking", "ai", "gemini"],
-  "author": "",
+  "keywords": ["socratic", "thinking", "ai"],
+  "author": "shreya jha",
   "license": "MIT"
 }
